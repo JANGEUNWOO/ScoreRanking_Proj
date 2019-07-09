@@ -4,3 +4,10 @@
 
 Project name : 성적 조회 프로젝트
 Tool : Miplatform, plsql, Egov(Java Spring)
+
+
+
+src/main/resources/db    :  데이터 모델링 , 쿼리
+src/main/resources/egovframework/conf/scoreranking/Defapp/win32   : 마이플랫폼 화면개발
+
+
