@@ -9,9 +9,12 @@ Tool : Miplatform, plsql, Egov(Java Spring)
 
 
 
-src/main/resources/db    :  데이터 모델링 , 쿼리
+src/main/resources/db    :  데이터 모델링
 
-src/main/resources/egovframework/conf/scoreranking/Defapp/win32   : 마이플랫폼 화면개발
+src/main/resources/egovframework/sqlmap/example/sample/EgovSample_Sample_SQL.xml : ibatis 쿼리
+
+src/main/resources/egovframework/conf/scoreranking/Defapp/win32 (form.xml , graph.xml ,scholarship.xml)  : 마이플랫폼 화면개발
+
 
 src/main/java/egovframework/example/sample/web/  :  컨트롤러
 
