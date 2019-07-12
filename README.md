@@ -7,6 +7,10 @@ Project name : 성적 조회 프로젝트
 
 Tool : Miplatform, plsql, Egov(Java Spring)
 
+Tomcat 7.0
+
+java jdk 1.8
+
 
 
 src/main/resources/db    :  데이터 모델링
