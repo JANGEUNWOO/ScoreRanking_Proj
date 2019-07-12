@@ -28,7 +28,7 @@ public class SampleDAO extends EgovAbstractDAO {
 		return list("sampleDAO.engscholar", hashmap);
 	}
 	/**
-	 *  2019 디와이정보기술 성적조회 코드
+	 *  2019 성적조회 코드
 	 */
 	public List<?> ScoreChk(Map<String,String> hashmap) throws Exception {
 		return list("sampleDAO.ScoreChk", hashmap);
